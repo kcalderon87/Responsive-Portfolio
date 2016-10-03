@@ -1,0 +1,192 @@
+body {
+	background-image: url("../images/seigaiha.png");
+}
+
+.title {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background: #4aaaa5;
+	padding: 20px;
+	color: #fff;
+	width: 15%;
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.mainHeader {
+	background: #fff;
+	padding: 36px;
+	background: #fff;
+	color: #dddddd;
+	width: 100%;
+	text-align: center;
+
+}
+
+.secondTitle {
+	clear: both;
+	color: #4aaaa5;
+	padding: 20px;
+	font-size: 30px;
+	
+
+}
+
+.mainBody {
+	background-color: #fff;
+	margin-top: 40px;
+	width: 50%;
+	padding: 40px;
+	margin-bottom: 40px;
+	margin-left: 30px;
+}
+
+.socialBox {
+	background: #fff;
+	color: #4aaaa5;
+	border: 1px solid #cccccc;
+	width: 15%;
+	padding: 10px;
+	position: absolute;
+	float: right;
+	margin-left: 65%;
+	margin-top: -400px;
+	font-size: 20px;
+
+}
+
+.bioPic {
+	clear: both;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 10px;
+}
+
+img {
+	width: 70px;
+	height: 70px;
+}
+
+.content {
+	background: #fff;
+}
+
+label {
+	display:block;
+	margin-top:20px;
+	letter-spacing: 2px;
+
+}
+
+/* Center the page */
+.body {
+	display: block;
+	margin:0 auto;
+	width:576px;
+}
+
+/*Center the form within the page */ {
+	margin: 0 auto;
+	width: 459px;
+}
+
+/* Style the text boxes */
+input, textarea {
+	width: 439px;
+	height: 27px;
+	background: #efefef;
+	border: 1px solid #dedede;
+	padding: 10px;
+	margin-top: 3px;
+	font-size: 0.9em;
+	color: #3a3a3a;
+}
+
+textarea {
+	height: 213px;
+}
+
+input, textarea {
+	width: 439px;
+	height: 27px;
+	background: #efefef;
+	border: 1px solid #dedede;
+	padding: 10px;
+	margin-top: 3px;
+	font-size: 0.9em;
+	color: #3a3a3a;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+input: focus, textarea:focus {
+	border: 1px solid #97d6eb;
+}
+
+#submit {
+	width: 127px;
+	height: 38px;
+	background: #4aaaa5;
+	border: none;
+	margin-top: 20px;
+	cursor: pointer;
+	color: #fff;
+	font-family: Arial;
+}
+
+		#submit: hover {
+			opacity: .9;
+		}
+
+#aboutMe {
+	margin-right: 20px;
+	padding: 50px;
+}
+
+.portfolioBody {
+	background: #fff;
+	
+}
+
+.portfolioIcons {
+    -moz-column-count:2;
+    -webkit-column-count:2;
+    column-count:2;
+    height: 145px;
+    width: 80px;
+
+}
+
+.portfolioTitles {
+	background: #4aaaa5;
+	color: #fff;
+
+}
+
+.footer {
+	background: #666666;
+	color: #fff;
+	clear:both;
+	text-align: center;
+	padding: 50px;
+	position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+}
+
+@media screen and (max-width: 980px)
+
+@media screen and (max-width: 768px)
+
+@media screen and (max-width: 640px) {
+	
+	body 
+	
+}
